@@ -1,2 +1,2 @@
 ### Try yourself
-https://adrianknapp.github.io/Slide/
+https://adrianknapp.github.io/slide/
